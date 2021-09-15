@@ -1,6 +1,6 @@
 ### Hi there, I'm Zakaria - aka xNukemeister 👋
 
-## I'm a Student of knowledge, Elementry programmer, and competative Gamer!!
+## I'm a Student of knowledge, elementry Programmer, and competative Gamer!!
 
 - 🔭 I just started studying information processing at university of oulu and I plan to major in software engineering
 - 🌱 I’m currently learning everything I can from other field but soo little time 🤣
