@@ -2,7 +2,7 @@
 
 ## I'm a Student of knowledge, elementry Programmer, and competative Gamer!!
 
-- 🔭 I just started studying information processing at university of oulu and I plan to major in software engineering
+- 🔭 
 - 🌱 I’m currently learning everything I can from other field but soo little time 🤣
 - 👯 I’m looking to collaborate with people from other field like engineers, economics, etc to build the next big thing
 - 🥅 2021 Goals: I want to find more about computer science, programming and build the entrepeneurial mindset. 
